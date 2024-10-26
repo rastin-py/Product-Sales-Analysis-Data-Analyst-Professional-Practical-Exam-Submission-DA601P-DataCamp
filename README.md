@@ -1,4 +1,4 @@
-# Data-Analyst-Professional-Practical-Exam-Submission-DA601P-DataCamp
+# Product-Sales-Analysis-Data-Analyst-Professional-Practical-Exam-Submission-DA601P-DataCamp
 Codes, Files and Presentation for DS601P Examp on DataCamp.
 
 # Skills I Gained
