@@ -1,5 +1,5 @@
 # Data-Analyst-Professional-Practical-Exam-Submission-DA601P-DataCamp
-Codes, Files and Presentations for DS601P Examp on DataCamp.
+Codes, Files and Presentation for DS601P Examp on DataCamp.
 
 # Skills I Gained
 To get certified this candidate had to display that they have the knowledge, skills, and abilities to perform a Data Analyst role. These included but were not limited to:
