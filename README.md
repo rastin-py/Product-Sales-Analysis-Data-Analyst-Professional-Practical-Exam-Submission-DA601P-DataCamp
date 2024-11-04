@@ -8,7 +8,7 @@ To get certified this candidate had to display that they have the knowledge, ski
 * Data Management
 * Visualization and Reporting
 
-# Practical exam submission
+# Practical Exam Submission
 The final stage of the certification required the individual to complete a practical exam. This stage of the certification is graded manually and stringently by DataCamp data scientist experts. The practical exam is split into two parts:
 
 ## 1. Technical report:
